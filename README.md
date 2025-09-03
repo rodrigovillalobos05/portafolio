@@ -1,6 +1,4 @@
 
-
-</head>
 <body>
 <div class="wrap">
 <header>
