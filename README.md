@@ -1,6 +1,6 @@
 <!--
 Portfolio: index.html
-Edita las secciones marcadas con <!-- EDITAR --> para personalizar tu contenido.
+
 Autor: ChatGPT (plantilla lista para GitHub Pages)
 -->
 
