@@ -1,9 +1,3 @@
-<!--
-Portfolio: index.html
-
-Autor: ChatGPT (plantilla lista para GitHub Pages)
--->
-
 
 <!doctype html>
 <html lang="es">
