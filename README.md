@@ -1,5 +1,5 @@
 
-</style>
+
 </head>
 <body>
 <div class="wrap">
