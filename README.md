@@ -1,6 +1,4 @@
 
-/* Responsive */
-@media (max-width:880px){.grid{grid-template-columns:1fr}aside{order:2}.wrap{padding-bottom:60px}}
 </style>
 </head>
 <body>
